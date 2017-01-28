@@ -1,0 +1,2 @@
+# Reverse-image-search
+Reverse image search is a content-based image retrieval (CBIR) query technique that involves providing the CBIR system with a sample image that it will then base its search upon; in terms of information retrieval, the sample image is what formulates a search query. Content-Based Image Retrieval (CBIR) uses the visual contents of an image such as color, shape, texture, and spatial layout to represent and index the image.
